@@ -18,7 +18,7 @@ Execute o seguinte comando para criar o ambiente:
 
 ```bash
 conda env create -f environment.yml
-
+```
 
 ## Funções em utils.py
 
