@@ -1,0 +1,11 @@
+name: credit-card-fraud-detection  # Nome do ambiente (pode ser personalizado)
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - scikit-learn
+  - lightgbm
